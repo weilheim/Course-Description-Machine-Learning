@@ -80,13 +80,19 @@ This course focuses on 80x86 assemble language. It covers structures and compone
 Intel 8086 CPU (register, flag etc.), mnemonic that has been used to represent each 
 low-level machine instruction or operation and implementation of loop and recursion with
 assemble language.
+
+Pattern Recognition (2015-2016 Semester2)
+This course deals with the fundamentals of characterizing and recognizing patterns and
+features of interest in numerical data. We discuss the basic tools and theories for 
+signal understanding problems with applications to face recognition and more. It also 
+covers decision theory, statistical classification, maximum likelihood and Bayesian 
+estimation, nonparametric methods, unsupervised learning and clustering.
 ```
 
 ### 6. Course(s) corresponding to Algorithms and Data Structures 
 
 ```markdown
 Data Structures and Algorithms(A) (2014-2015 Semester1)
-
 Data Structure and Algorithms is the fundamental core course of computer science. This
 course covers the concepts of common data structure such as linear table, stack, leap,
 tree, graph and their impletations. This course also introduces sorting and indexing 
