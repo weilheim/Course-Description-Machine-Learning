@@ -4,8 +4,8 @@
 ### 1. Course(s) corresponding to Algebra and geometry 
 
 ```markdown
-**Algebra and Geometry 1 (2012-2013 Semester2)**
-**Algebra and Geometry 2 (2013-2014 Semester1)**
+**Algebra and Geometry 1 (2012-2013 Semester2)** 
+**Algebra and Geometry 2 (2013-2014 Semester1)** 
 These courses are combination of linear algebra and analytic geometry. The linear algebra
 part covers the concept of determinant, matrix, linear transform, linear space, eigenvalues,
 quadratic form and Euclidean space. And the geometry parts contains important concepts 
