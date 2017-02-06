@@ -1,37 +1,98 @@
-## Welcome to GitHub Pages
+# Mathematics
 
-You can use the [editor on GitHub](https://github.com/weilheim/Course-Description-Machine-Learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 1. Course(s) corresponding to Algebra and geometry 
 
 ```markdown
-Syntax highlighted code block
+Algebra and Geometry 1 (2012-2013 Semester2)
 
-# Header 1
-## Header 2
-### Header 3
+Algebra and Geometry 2 (2013-2014 Semester1)
 
-- Bulleted
-- List
+These courses are combination of linear algebra and analytic geometry. The linear algebra
+part covers the concept of determinant, matrix, linear transform, linear space, eigenvalues,
+quadratic form and Euclidean space. And the geometry parts contains important concepts 
+such as Cartesian coordinate system and quadric surface (ellipsoid, sphere and paraboloid).
+```
 
-1. Numbered
-2. List
+
+### 2. Course(s) in calculus in one-variable
+
+```markdown
+Mathematics (2012-2013 Semester1) 
+
+This course focuses on advanced calculus tools and the derivation procedure of such tools.
+It covers real number theory, concept of limits (the limit of a sequence and a function), 
+definitions and properties of continuous functions, differential calculus (differentiable 
+functions, rules of differentiation, etc.) and integration.
+```
+
+
+### 3. Course(s) corresponding to Calculus in several variables 
+
+```markdown
+Engineering Mathematical Analysis 3 (2013-2014 Semester2)
+
+This courses aims to provide an in-depth understanding of multivariable calculus, infinite 
+series and basics of differential equations. The multivariable part covers partial 
+derivative, integral depending on a parameter, polar coordinate system, line, surface
+and volume integral, Green’s theorem, the Gauss-Ostrogradskii formula, Stokes’ formula,
+vector analysis and field theory.
+```
+
+
+### 4. Course(s) corresponding to Probability theory and statistics 
+
+```markdown
+Probability and Mathematical Statistcs (2014-2015 Semester2)
+
+This course covers topics such as random events and probability, random variables and
+their probability distribution, numerical characteristics of random variables, central
+limit phenomena, concepts on mathematical statistics, parameter estimation and 
+hypothesis test.
+```
+
+
+### 5. Course(s) corresponding to Programming 
+
+```markdown
+Introduction to Computing (2012-2013 Semester2)
+
+This course provides an introduction to the concept of computational complexity. 
+It also investigate basic sorting algorithms and analysis their computational complexity,
+such as Quicksort, Merge sort and Insertion sort.
+
+Computer Programming 1 (2013-2014 Semester1)
+
+The course covers the basic grammar of C++ and programming concepts including procedural
+programming, basic control structures (sequence, if/else, for loop, while loop), array, 
+struct and pointer. Introduction to object-oriented programming is also introduced.
+
+Computer Programming 2 (2013-2014 Semester2)
+
+This course aims to familiarize students with C# and advanced concepts of object-oriented 
+programming. It covers design and implementation of class, creating and initializing 
+objects (providing initial values member variables), inheritance of public and protected 
+classes and file processing.
+
+Assemble Language (2014-2015 Semester2)
+
+This course focuses on 80x86 assemble language. It covers structures and components of 
+Intel 8086 CPU (register, flag etc.), mnemonic that has been used to represent each 
+low-level machine instruction or operation and implementation of loop and recursion with
+assemble language.
+```
+
+### 6. Course(s) corresponding to Algorithms and Data Structures 
+
+```markdown
+Data Structures and Algorithms(A) (2014-2015 Semester1)
+
+Data Structure and Algorithms is the fundamental core course of computer science. This
+course covers the concepts of common data structure such as linear table, stack, leap,
+tree, graph and their impletations. This course also introduces sorting and indexing 
+algorithms. And basics of algorithm complexity analysis are also included in the course.  
+```
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weilheim/Course-Description-Machine-Learning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
